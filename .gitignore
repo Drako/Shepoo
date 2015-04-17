@@ -33,3 +33,17 @@ shepoo
 
 # Makefile is generated
 /server/Makefile
+
+# cmake build directory
+build*/
+
+# qtcreator
+CMakeLists.txt.user
+
+# kdevelop
+*.kdev4
+.kdev4/
+
+# sublime
+*.sublime-*
+
