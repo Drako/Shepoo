@@ -47,3 +47,6 @@ CMakeLists.txt.user
 # sublime
 *.sublime-*
 
+# clion
+.idea/
+
